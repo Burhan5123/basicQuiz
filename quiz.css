@@ -1,0 +1,51 @@
+body{
+    background-image: radial-gradient(#553c9a, #ee4b2b);
+    font-family: 'Roboto Slab', serif;
+}
+
+h2{
+
+    font-size: 4vw;
+    text-align: center;
+    color: aquamarine;
+    font-weight: bolder;
+    text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+
+}
+#display{
+
+    font-size: 2vw;
+    float: left;
+    color:aquamarine;
+    font-weight: bolder;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+button{
+  background-color:aquamarine;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  color: rgb(8, 4, 4);
+  padding: 10px 22px;
+  text-align: center;
+  font-size: 1vw;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+button:hover {
+    background-color: #000000;
+    color: white;
+}
+
+#bt{
+    margin-left: 45%;
+}
+
+#totalGrade{
+
+    font-size: 2vw;
+    text-align: center;
+    color:aquamarine;
+    font-weight: bolder;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
